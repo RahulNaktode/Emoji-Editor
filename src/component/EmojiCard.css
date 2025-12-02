@@ -1,0 +1,12 @@
+.option{
+    font-size: 30px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.option:hover{
+    transform: scale(1.1);
+}
