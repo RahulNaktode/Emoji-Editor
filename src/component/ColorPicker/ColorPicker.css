@@ -1,0 +1,14 @@
+.color-option{
+    margin: 8px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 25px;
+    width: 33px;
+    border: 1px solid #fff;
+}
+
+.color-option:hover{
+    transform: scale(1.1);
+}
