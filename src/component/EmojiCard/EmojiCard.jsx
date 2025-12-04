@@ -1,9 +1,9 @@
 import './EmojiCard.css'
 
-function EmojiCard({emoji, setEmoji}) {
+function EmojiCard({ emoji, setEmoji }) {
   return (
     <div className='option' onClick={() => {
-        setEmoji(emoji)
+      setEmoji(emoji)
     }}>
       {emoji}
     </div>

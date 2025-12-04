@@ -1,4 +1,4 @@
-.option{
+.option {
     font-size: 30px;
     margin: 5px;
     padding: 5px;
@@ -7,6 +7,6 @@
     border-radius: 10px;
 }
 
-.option:hover{
+.option:hover {
     transform: scale(1.1);
 }

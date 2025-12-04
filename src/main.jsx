@@ -7,8 +7,8 @@ const root = createRoot(document.getElementById('root'));
 
 root.render(
   <BrowserRouter>
-  <Routes>
-    <Route path='/' element={<Home />} />
-  </Routes>
+    <Routes>
+      <Route path='/' element={<Home />} />
+    </Routes>
   </BrowserRouter>
 )

@@ -1,16 +1,16 @@
-.min-h-screen{
+.min-h-screen {
     min-height: 100vh;
 }
 
-.w-full{
+.w-full {
     width: 100%;
 }
 
-.relative{
+.relative {
     position: relative;
 }
 
-.absolute{
+.absolute {
     position: absolute;
 }
 
@@ -21,27 +21,27 @@
     left: 0;
 }
 
-.z-0{
+.z-0 {
     z-index: -10 !important;
 }
 
-.container{
+.container {
     text-align: center;
     padding: 20px;
 }
 
-.heading{
+.heading {
     margin: 0;
-    padding: 10px;  
+    padding: 10px;
 }
 
-.p{
+.p {
     color: #555;
 }
 
-.card{
+.card {
     border: 1px solid #ccc;
-    border-radius: 10px;   
+    border-radius: 10px;
     background-color: #fff;
     width: 190px;
     height: 190px;
@@ -53,23 +53,23 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-.slider-container{
+.slider-container {
     margin: 10px 0;
     text-align: center;
 }
 
-.slider{
+.slider {
     width: 200px;
     margin: 0 10px;
     cursor: pointer;
 }
 
-.card-options{
+.card-options {
     display: flex;
     margin-top: 10px;
 }
 
-.emoji-option{
+.emoji-option {
     border: 1px solid #ccc;
     background-color: #f0f0f0;
     border-radius: 5px;
@@ -84,11 +84,11 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-.color-picker{
+.color-picker {
     border: 1px solid #ccc;
     background-color: #fff9e6;
     border-radius: 5px;
-    padding: 10px;  
+    padding: 10px;
     font-size: 20px;
     cursor: pointer;
     transition: transform 0.3s;
@@ -99,12 +99,12 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-.rotation{
+.rotation {
     display: flex;
     justify-content: center;
 }
 
-.rotate-img{
+.rotate-img {
     height: 40px;
     margin-top: 20px;
     cursor: pointer;

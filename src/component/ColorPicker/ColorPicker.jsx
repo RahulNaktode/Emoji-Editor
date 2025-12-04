@@ -1,12 +1,12 @@
 import './ColorPicker.css'
 
-function ColorPicker({bgColor, setBgColor}) {
+function ColorPicker({ bgColor, setBgColor }) {
   return (
     <div className='color-option' onClick={() => {
-        setBgColor(bgColor)
+      setBgColor(bgColor)
     }}
-    style={{backgroundColor: bgColor}}
-    > 
+      style={{ backgroundColor: bgColor }}
+    >
     </div>
   )
 }

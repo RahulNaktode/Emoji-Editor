@@ -1,4 +1,4 @@
-.color-option{
+.color-option {
     margin: 8px;
     padding: 5px;
     cursor: pointer;
@@ -9,6 +9,6 @@
     border: 1px solid #fff;
 }
 
-.color-option:hover{
+.color-option:hover {
     transform: scale(1.1);
 }
